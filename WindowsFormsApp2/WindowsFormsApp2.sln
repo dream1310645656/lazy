@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp2", "WindowsFormsApp2.csproj", "{13AF35F3-4A05-497B-8592-09C7880EA5B5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WIFI模块", "..\WIFI模块\WIFI模块.vdproj", "{F017972F-EAA1-49AA-B8EB-4BA2B0188723}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13AF35F3-4A05-497B-8592-09C7880EA5B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13AF35F3-4A05-497B-8592-09C7880EA5B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13AF35F3-4A05-497B-8592-09C7880EA5B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13AF35F3-4A05-497B-8592-09C7880EA5B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F017972F-EAA1-49AA-B8EB-4BA2B0188723}.Debug|Any CPU.ActiveCfg = Debug
+		{F017972F-EAA1-49AA-B8EB-4BA2B0188723}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E86A187D-7985-4F2B-8488-08E949E1003A}
+	EndGlobalSection
+EndGlobal
